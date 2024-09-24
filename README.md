@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Itzz-ayush!
+# 👋 Hello, I'm Ayush!
 
 Welcome to my GitHub profile! I'm a passionate coder with a love for web development,ethical hacking. 
 Here, you'll find a collection of my projects, contributions, and explorations in the world of technology.
