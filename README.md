@@ -22,7 +22,7 @@ I work with a variety of tools and technologies, including:
 
 I love meeting new people and exchanging ideas. Don't hesitate to reach out if you’d like to connect!
 
-- [LinkedIn]-https://www.linkedin.com/in/ayush-shah-6820b032b
-- [Instagram]-https://www.instagram.com/__ayush_shah__
+- [LinkedIn]- https://www.linkedin.com/in/ayush-shah-6820b032b
+- [Instagram]- https://www.instagram.com/__ayush_shah__
 
 Thanks for stopping by! 🚀
