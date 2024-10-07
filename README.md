@@ -8,7 +8,7 @@ Here, you'll find a collection of my projects, contributions, and explorations i
 - 🔭 I’m currently working on big project.
 - 🌱 I’m learning ethical hacking.
 - 💬 Ask me about any tech related things.
-- 📫 How to reach me: ayushgaming145@gmail.com.
+- 📫 How to reach me: ayushgaming145@gmail.com
 
 ## 🌟 Technologies & Tools
 
@@ -22,7 +22,7 @@ I work with a variety of tools and technologies, including:
 
 I love meeting new people and exchanging ideas. Don't hesitate to reach out if you’d like to connect!
 
-- [LinkedIn]- https://www.linkedin.com/in/ayush-shah-6820b032b
-- [Instagram]- https://www.instagram.com/__ayush_shah__
+- LinkedIn - https://www.linkedin.com/in/ayush-shah-6820b032b
+- E-mail - ayushgaming145@gmail.com
 
 Thanks for stopping by! 🚀
